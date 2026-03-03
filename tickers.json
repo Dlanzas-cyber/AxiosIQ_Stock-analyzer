@@ -1,0 +1,884 @@
+{
+  "AAPL": [
+    "Apple Inc.",
+    "technology",
+    "🇺🇸",
+    "Tecnología de consumo: iPhone, Mac, iPad y servicios digitales. La mayor empresa del mundo por capitalización."
+  ],
+  "MSFT": [
+    "Microsoft Corp.",
+    "technology",
+    "🇺🇸",
+    "Software, nube (Azure), gaming y IA. Cuota creciente en la nube empresarial."
+  ],
+  "NVDA": [
+    "NVIDIA Corp.",
+    "technology",
+    "🇺🇸",
+    "Semiconductores: GPUs para IA, centros de datos y gaming. Líder indiscutible en aceleración computacional."
+  ],
+  "GOOGL": [
+    "Alphabet Inc. (A)",
+    "technology",
+    "🇺🇸",
+    "Google Search, YouTube, Google Cloud y publicidad digital. Dominio del ecosistema de búsqueda global."
+  ],
+  "GOOG": [
+    "Alphabet Inc. (C)",
+    "technology",
+    "🇺🇸",
+    "Acciones clase C de Alphabet (sin voto). Misma exposición que GOOGL."
+  ],
+  "META": [
+    "Meta Platforms",
+    "technology",
+    "🇺🇸",
+    "Facebook, Instagram, WhatsApp y apuestas en metaverso. Dominio en redes sociales globales."
+  ],
+  "AVGO": [
+    "Broadcom Inc.",
+    "technology",
+    "🇺🇸",
+    "Semiconductores y software de infraestructura. Diversificación tras adquisición de VMware."
+  ],
+  "ORCL": [
+    "Oracle Corp.",
+    "technology",
+    "🇺🇸",
+    "Bases de datos, ERP cloud y servicios de IA. Crecimiento acelerado en nube corporativa."
+  ],
+  "CRM": [
+    "Salesforce Inc.",
+    "technology",
+    "🇺🇸",
+    "Plataforma CRM líder. Fuertes efectos de red en ecosistema de ventas y marketing empresarial."
+  ],
+  "ADBE": [
+    "Adobe Inc.",
+    "technology",
+    "🇺🇸",
+    "Software creativo (Creative Cloud) y marketing digital. Modelo SaaS con alta retención."
+  ],
+  "AMD": [
+    "Advanced Micro Devices",
+    "technology",
+    "🇺🇸",
+    "CPUs y GPUs para centros de datos, PC y gaming. Ganando cuota frente a Intel y compitiendo con NVIDIA."
+  ],
+  "INTC": [
+    "Intel Corp.",
+    "technology",
+    "🇺🇸",
+    "Microprocesadores x86. En transición hacia fabricación de chips para terceros (foundry)."
+  ],
+  "TXN": [
+    "Texas Instruments",
+    "technology",
+    "🇺🇸",
+    "Semiconductores analógicos y embebidos. Alta exposición a ciclo industrial y automoción."
+  ],
+  "QCOM": [
+    "Qualcomm Inc.",
+    "technology",
+    "🇺🇸",
+    "Chips para smartphones (Snapdragon) y licencias de patentes 5G. Alta dependencia de Apple y Samsung."
+  ],
+  "AMAT": [
+    "Applied Materials",
+    "technology",
+    "🇺🇸",
+    "Equipos de fabricación de semiconductores. Beneficiario del ciclo de inversión en fábricas de chips."
+  ],
+  "MU": [
+    "Micron Technology",
+    "technology",
+    "🇺🇸",
+    "DRAM y NAND flash. Alta ciclicidad vinculada a inventarios y precio de memoria."
+  ],
+  "NOW": [
+    "ServiceNow",
+    "technology",
+    "🇺🇸",
+    "Plataforma de automatización empresarial. Fuerte crecimiento en contratos enterprise."
+  ],
+  "SNOW": [
+    "Snowflake Inc.",
+    "technology",
+    "🇺🇸",
+    "Data cloud y analítica. Alto crecimiento pero aún sin beneficios consistentes."
+  ],
+  "PANW": [
+    "Palo Alto Networks",
+    "technology",
+    "🇺🇸",
+    "Ciberseguridad empresarial. Plataforma unificada con fuerte crecimiento en suscripciones."
+  ],
+  "CRWD": [
+    "CrowdStrike",
+    "technology",
+    "🇺🇸",
+    "Ciberseguridad endpoint basada en nube. Alta tasa de retención y expansión de contratos."
+  ],
+  "NET": [
+    "Cloudflare Inc.",
+    "technology",
+    "🇺🇸",
+    "Red de seguridad y conectividad en la nube. Alto potencial, valoración exigente."
+  ],
+  "PLTR": [
+    "Palantir Technologies",
+    "technology",
+    "🇺🇸",
+    "Analítica de datos para gobiernos y empresas. Crecimiento en sector comercial con IA."
+  ],
+  "SHOP": [
+    "Shopify Inc.",
+    "technology",
+    "🇺🇸",
+    "Plataforma de e-commerce. Recuperación tras corrección de 2022. Alta exposición a PME."
+  ],
+  "TSM": [
+    "Taiwan Semiconductor",
+    "technology",
+    "🇹🇼",
+    "Mayor fabricante de chips del mundo. Riesgo geopolítico Taiwan-China como factor diferencial."
+  ],
+  "ASML": [
+    "ASML Holding",
+    "technology",
+    "🇳🇱",
+    "Monopolio en máquinas de litografía EUV para fabricar chips avanzados. Posición única en el sector."
+  ],
+  "SAP": [
+    "SAP SE",
+    "technology",
+    "🇩🇪",
+    "ERP líder global. Transición a la nube S/4HANA con modelos de suscripción recurrente."
+  ],
+  "AMZN": [
+    "Amazon.com Inc.",
+    "consumer_cyclical",
+    "🇺🇸",
+    "E-commerce, AWS (nube), publicidad y logística. AWS genera la mayor parte del beneficio operativo."
+  ],
+  "TSLA": [
+    "Tesla Inc.",
+    "consumer_cyclical",
+    "🇺🇸",
+    "Vehículos eléctricos, energía y conducción autónoma. Alta volatilidad y valoración como empresa de IA."
+  ],
+  "NKE": [
+    "Nike Inc.",
+    "consumer_cyclical",
+    "🇺🇸",
+    "Calzado y ropa deportiva. Marca global con fuerte poder de fijación de precios."
+  ],
+  "MCD": [
+    "McDonald's Corp.",
+    "consumer_cyclical",
+    "🇺🇸",
+    "Franquicias de comida rápida. Modelo de royalties con alta visibilidad de ingresos."
+  ],
+  "SBUX": [
+    "Starbucks Corp.",
+    "consumer_cyclical",
+    "🇺🇸",
+    "Cadena de cafeterías. Exposición a China como mercado clave de crecimiento."
+  ],
+  "HD": [
+    "Home Depot Inc.",
+    "consumer_cyclical",
+    "🇺🇸",
+    "Retailer líder en bricolaje y construcción. Alta correlación con mercado inmobiliario."
+  ],
+  "LOW": [
+    "Lowe's Companies",
+    "consumer_cyclical",
+    "🇺🇸",
+    "Segundo retailer en bricolaje de EE.UU. Márgenes en expansión por eficiencia operativa."
+  ],
+  "COST": [
+    "Costco Wholesale",
+    "consumer_cyclical",
+    "🇺🇸",
+    "Club de membresía con precios bajos. Modelo de negocio único basado en fidelización."
+  ],
+  "TGT": [
+    "Target Corp.",
+    "consumer_cyclical",
+    "🇺🇸",
+    "Retailer de gran superficie. Márgenes bajo presión por inventario y competencia."
+  ],
+  "BKNG": [
+    "Booking Holdings",
+    "consumer_cyclical",
+    "🇺🇸",
+    "Plataformas de viajes: Booking.com, Priceline, Kayak. Recuperación post-COVID consolidada."
+  ],
+  "UBER": [
+    "Uber Technologies",
+    "consumer_cyclical",
+    "🇺🇸",
+    "Movilidad, reparto y logística. Primer año con beneficio neto en 2023."
+  ],
+  "ABNB": [
+    "Airbnb Inc.",
+    "consumer_cyclical",
+    "🇺🇸",
+    "Alquiler vacacional peer-to-peer. Alta generación de caja con modelo asset-light."
+  ],
+  "CMG": [
+    "Chipotle Mexican Grill",
+    "consumer_cyclical",
+    "🇺🇸",
+    "Cadena de restaurantes rápidos premium. Fuerte pricing power y expansión de unidades."
+  ],
+  "ITX": [
+    "Inditex S.A.",
+    "consumer_cyclical",
+    "🇪🇸",
+    "Zara, Pull&Bear, Bershka y otras marcas. Mayor grupo de moda del mundo por capitalización."
+  ],
+  "LVMH": [
+    "LVMH Moët Hennessy",
+    "consumer_cyclical",
+    "🇫🇷",
+    "Lujo: Louis Vuitton, Dior, Moët & Chandon, Sephora. El mayor conglomerado de lujo del mundo."
+  ],
+  "PG": [
+    "Procter & Gamble",
+    "consumer_defensive",
+    "🇺🇸",
+    "Bienes de consumo: Tide, Pampers, Gillette. Dividendo 'Dividend King' (+67 años consecutivos)."
+  ],
+  "KO": [
+    "Coca-Cola Co.",
+    "consumer_defensive",
+    "🇺🇸",
+    "Bebidas: Coca-Cola, Fanta, Sprite, agua. Marca global con distribución incomparable."
+  ],
+  "PEP": [
+    "PepsiCo Inc.",
+    "consumer_defensive",
+    "🇺🇸",
+    "Bebidas y snacks: Pepsi, Lay's, Quaker. Más diversificado que KO. Dividend Aristocrat."
+  ],
+  "PM": [
+    "Philip Morris Intl.",
+    "consumer_defensive",
+    "🇺🇸",
+    "Tabaco y nicotina alternativa (IQOS). Apuesta por productos de riesgo reducido."
+  ],
+  "MO": [
+    "Altria Group",
+    "consumer_defensive",
+    "🇺🇸",
+    "Tabaco EE.UU.: Marlboro. Alto dividendo, negocio maduro en declive secular."
+  ],
+  "MDLZ": [
+    "Mondelez Intl.",
+    "consumer_defensive",
+    "🇺🇸",
+    "Snacks: Oreo, Milka, Toblerone, Cadbury. Exposición a mercados emergentes."
+  ],
+  "CL": [
+    "Colgate-Palmolive",
+    "consumer_defensive",
+    "🇺🇸",
+    "Higiene bucal y personal. Pricing power en mercados emergentes."
+  ],
+  "KMB": [
+    "Kimberly-Clark",
+    "consumer_defensive",
+    "🇺🇸",
+    "Kleenex, Huggies, Scott. Defensivo con dividendo sólido."
+  ],
+  "GIS": [
+    "General Mills",
+    "consumer_defensive",
+    "🇺🇸",
+    "Alimentos: Häagen-Dazs, Cheerios, Betty Crocker. Moderado pricing power."
+  ],
+  "NESN": [
+    "Nestlé S.A.",
+    "consumer_defensive",
+    "🇨🇭",
+    "Mayor empresa de alimentación del mundo. Nescafé, KitKat, Maggi, Pure Life."
+  ],
+  "OR": [
+    "L'Oréal S.A.",
+    "consumer_defensive",
+    "🇫🇷",
+    "Cosmética y cuidado personal. Fuerte crecimiento en mercados emergentes y lujo."
+  ],
+  "PLD": [
+    "Prologis Inc.",
+    "reit",
+    "🇺🇸",
+    "REIT de almacenes logísticos. Beneficiario del e-commerce. Mayor REIT del mundo."
+  ],
+  "AMT": [
+    "American Tower Corp.",
+    "reit",
+    "🇺🇸",
+    "Torres de telecomunicaciones. Ingresos recurrentes con contratos a largo plazo."
+  ],
+  "EQIX": [
+    "Equinix Inc.",
+    "reit",
+    "🇺🇸",
+    "Data centers: centros de datos interconectados. Beneficiario de la nube y digitalización."
+  ],
+  "CCI": [
+    "Crown Castle Inc.",
+    "reit",
+    "🇺🇸",
+    "Torres de telecom y fibra en EE.UU. Bajo crecimiento vs AMT pero más defensivo."
+  ],
+  "O": [
+    "Realty Income Corp.",
+    "reit",
+    "🇺🇸",
+    "'The Monthly Dividend Company'. Net lease con 1.200+ inquilinos retail."
+  ],
+  "WELL": [
+    "Welltower Inc.",
+    "reit",
+    "🇺🇸",
+    "Residencias senior e infraestructura sanitaria. Beneficiario del envejecimiento poblacional."
+  ],
+  "AVB": [
+    "AvalonBay Communities",
+    "reit",
+    "🇺🇸",
+    "Apartamentos residenciales en EE.UU. Costas. Exposición a mercados de alta demanda."
+  ],
+  "EQR": [
+    "Equity Residential",
+    "reit",
+    "🇺🇸",
+    "Apartamentos en grandes ciudades EE.UU. Alta correlación con empleo urbano."
+  ],
+  "SPG": [
+    "Simon Property Group",
+    "reit",
+    "🇺🇸",
+    "Mayor REIT de centros comerciales premium de EE.UU. Resistente vs retail secundario."
+  ],
+  "PSA": [
+    "Public Storage",
+    "reit",
+    "🇺🇸",
+    "Mayor empresa de trasteros (self-storage) del mundo. Alta rentabilidad y bajo capex."
+  ],
+  "VICI": [
+    "VICI Properties",
+    "reit",
+    "🇺🇸",
+    "REIT de casinos y resorts (Caesars, MGM). Arrendamientos triple-net a largo plazo."
+  ],
+  "DLR": [
+    "Digital Realty",
+    "reit",
+    "🇺🇸",
+    "Data centers globales. Compite con Equinix. Elevado capex para expansión."
+  ],
+  "MPW": [
+    "Medical Properties Trust",
+    "reit",
+    "🇺🇸",
+    "REIT hospitalario. Alta rentabilidad por dividendo pero con riesgo de inquilinos."
+  ],
+  "VNO": [
+    "Vornado Realty",
+    "reit",
+    "🇺🇸",
+    "Oficinas y retail en Nueva York. Elevada exposición a mercado de oficinas NYC."
+  ],
+  "CLNX": [
+    "Cellnex Telecom",
+    "reit",
+    "🇪🇸",
+    "Torres de telecomunicaciones europeas. Fuerte expansión vía adquisiciones."
+  ],
+  "MER": [
+    "Merlin Properties",
+    "reit",
+    "🇪🇸",
+    "REIT español: oficinas, centros comerciales y logística. El mayor SOCIMI de España."
+  ],
+  "BRK.B": [
+    "Berkshire Hathaway B",
+    "financial",
+    "🇺🇸",
+    "Conglomerado de Buffett: seguros (GEICO), utilities, ferrocarril (BNSF) e inversiones."
+  ],
+  "JPM": [
+    "JPMorgan Chase",
+    "financial",
+    "🇺🇸",
+    "Mayor banco de EE.UU. Diversificado en banca retail, inversión y gestión de activos."
+  ],
+  "BAC": [
+    "Bank of America",
+    "financial",
+    "🇺🇸",
+    "Segundo banco de EE.UU. Alta sensibilidad a tipos de interés. Gran base de depósitos."
+  ],
+  "WFC": [
+    "Wells Fargo",
+    "financial",
+    "🇺🇸",
+    "Banco retail y hipotecas en EE.UU. Aún bajo cap de activos del regulador."
+  ],
+  "GS": [
+    "Goldman Sachs",
+    "financial",
+    "🇺🇸",
+    "Banca de inversión, trading y gestión de activos. Ingresos volátiles al ciclo."
+  ],
+  "MS": [
+    "Morgan Stanley",
+    "financial",
+    "🇺🇸",
+    "Gestión de patrimonio y banca de inversión. Ingresos más recurrentes que GS."
+  ],
+  "AXP": [
+    "American Express",
+    "financial",
+    "🇺🇸",
+    "Tarjetas de crédito premium. Alta base de clientes afluentes con fuerte gasto."
+  ],
+  "BLK": [
+    "BlackRock Inc.",
+    "financial",
+    "🇺🇸",
+    "Mayor gestora de activos del mundo. Crecimiento en ETFs (iShares) y Aladdin."
+  ],
+  "V": [
+    "Visa Inc.",
+    "financial",
+    "🇺🇸",
+    "Red de pagos global. Modelo de royalties sin riesgo de crédito. Moat excepcional."
+  ],
+  "MA": [
+    "Mastercard Inc.",
+    "financial",
+    "🇺🇸",
+    "Red de pagos global. Similar a Visa pero con mayor exposición internacional."
+  ],
+  "PYPL": [
+    "PayPal Holdings",
+    "financial",
+    "🇺🇸",
+    "Pagos digitales. Bajo presión competitiva de Apple Pay, Google Pay y Block."
+  ],
+  "SAN": [
+    "Banco Santander",
+    "financial",
+    "🇪🇸",
+    "Banco global con foco en España, Brasil y Reino Unido. Alta rentabilidad en mercados emergentes."
+  ],
+  "BBVA": [
+    "BBVA",
+    "financial",
+    "🇪🇸",
+    "Banco con gran peso en México (60% del beneficio), España y Turquía."
+  ],
+  "CABK": [
+    "CaixaBank",
+    "financial",
+    "🇪🇸",
+    "Primer banco de clientes en España tras fusión con Bankia. Red retail dominante."
+  ],
+  "MAP": [
+    "MAPFRE S.A.",
+    "financial",
+    "🇪🇸",
+    "Aseguradora española con fuerte presencia en Latinoamérica."
+  ],
+  "BNP": [
+    "BNP Paribas",
+    "financial",
+    "🇫🇷",
+    "Mayor banco de la Eurozona. Diversificado en banca retail, corporativa y seguros."
+  ],
+  "UCG": [
+    "UniCredit",
+    "financial",
+    "🇮🇹",
+    "Banco italiano con presencia en Europa del Este. Mejora notable en rentabilidad."
+  ],
+  "XOM": [
+    "Exxon Mobil",
+    "energy",
+    "🇺🇸",
+    "Mayor petrolera integrada de Occidente. Fuerte FCF con precio crudo >$60/barril."
+  ],
+  "CVX": [
+    "Chevron Corp.",
+    "energy",
+    "🇺🇸",
+    "Segunda mayor petrolera de EE.UU. Balance sólido y dividendo creciente."
+  ],
+  "COP": [
+    "ConocoPhillips",
+    "energy",
+    "🇺🇸",
+    "E&P (exploración y producción). Bajo coste de producción y alta generación de caja."
+  ],
+  "EOG": [
+    "EOG Resources",
+    "energy",
+    "🇺🇸",
+    "E&P en shale oil de EE.UU. Disciplina de capital y balance sin deuda neta."
+  ],
+  "SLB": [
+    "SLB (Schlumberger)",
+    "energy",
+    "🇺🇸",
+    "Mayor servicios petroleros del mundo. Beneficiario del ciclo de inversión en exploración."
+  ],
+  "OXY": [
+    "Occidental Petroleum",
+    "energy",
+    "🇺🇸",
+    "E&P con apuesta en captura de carbono. Berkshire Hathaway es accionista principal."
+  ],
+  "DVN": [
+    "Devon Energy",
+    "energy",
+    "🇺🇸",
+    "Shale oil E&P con modelo de dividendo variable según FCF."
+  ],
+  "REP": [
+    "Repsol S.A.",
+    "energy",
+    "🇪🇸",
+    "Petrolera integrada española. Transición hacia renovables con upstream rentable."
+  ],
+  "BP": [
+    "BP plc",
+    "energy",
+    "🇬🇧",
+    "Petrolera integrada global en transición energética. Mayor deuda relativa que peers."
+  ],
+  "SHEL": [
+    "Shell plc",
+    "energy",
+    "🇬🇧",
+    "Una de las mayores petroleras del mundo. Fuerte distribución de capital a accionistas."
+  ],
+  "TTE": [
+    "TotalEnergies",
+    "energy",
+    "🇫🇷",
+    "Petrolera integrada con mayor apuesta por GNL y renovables del sector."
+  ],
+  "UNH": [
+    "UnitedHealth Group",
+    "healthcare",
+    "🇺🇸",
+    "Mayor aseguradora de salud de EE.UU. y servicios sanitarios (Optum). Alta visibilidad de ingresos."
+  ],
+  "JNJ": [
+    "Johnson & Johnson",
+    "healthcare",
+    "🇺🇸",
+    "Farmacéutica y medtech. Dividendo 'Dividend King'. Separó el negocio de consumo (Kenvue)."
+  ],
+  "LLY": [
+    "Eli Lilly",
+    "healthcare",
+    "🇺🇸",
+    "Farmacéutica: obesidad (Mounjaro/Zepbound) y diabetes. Crecimiento excepcional del pipeline."
+  ],
+  "MRK": [
+    "Merck & Co.",
+    "healthcare",
+    "🇺🇸",
+    "Farmacéutica: Keytruda (oncología) como producto estrella. Riesgo de patent cliff."
+  ],
+  "ABBV": [
+    "AbbVie Inc.",
+    "healthcare",
+    "🇺🇸",
+    "Farmacéutica: Humira y sucesores. Dividendo elevado con pipeline oncología/inmunología."
+  ],
+  "BMY": [
+    "Bristol-Myers Squibb",
+    "healthcare",
+    "🇺🇸",
+    "Oncología e inmunología. Elevado apalancamiento tras adquisiciones. Dividend yield alto."
+  ],
+  "PFE": [
+    "Pfizer Inc.",
+    "healthcare",
+    "🇺🇸",
+    "Farmacéutica: COVID headwinds y reposicionamiento del portfolio. Dividendo elevado."
+  ],
+  "AMGN": [
+    "Amgen Inc.",
+    "healthcare",
+    "🇺🇸",
+    "Biotecnología: medicamentos biológicos. Alta generación de FCF y recompras agresivas."
+  ],
+  "GILD": [
+    "Gilead Sciences",
+    "healthcare",
+    "🇺🇸",
+    "VIH, hepatitis C y oncología. Alto dividendo y FCF. Dependencia de Biktarvy."
+  ],
+  "REGN": [
+    "Regeneron Pharma",
+    "healthcare",
+    "🇺🇸",
+    "Biotecnología: Dupixent y Eylea. Sin dividendo, FCF reinvertido en I+D."
+  ],
+  "VRTX": [
+    "Vertex Pharmaceuticals",
+    "healthcare",
+    "🇺🇸",
+    "Fibrosis quística (monopolio) y terapias genéticas. Crecimiento predecible y alto margen."
+  ],
+  "ISRG": [
+    "Intuitive Surgical",
+    "healthcare",
+    "🇺🇸",
+    "Robótica quirúrgica: sistema da Vinci. Moat en cirugía mínimamente invasiva."
+  ],
+  "MDT": [
+    "Medtronic plc",
+    "healthcare",
+    "🇮🇪",
+    "Dispositivos médicos: marcapasos, stents, robótica. Bajo crecimiento, dividendo estable."
+  ],
+  "SYK": [
+    "Stryker Corp.",
+    "healthcare",
+    "🇺🇸",
+    "Implantes ortopédicos y robótica (Mako). Crecimiento consistente por envejecimiento."
+  ],
+  "NVO": [
+    "Novo Nordisk",
+    "healthcare",
+    "🇩🇰",
+    "Liderazgo global en diabetes e insulina. Ozempic/Wegovy para obesidad: crecimiento explosivo."
+  ],
+  "NOVN": [
+    "Novartis AG",
+    "healthcare",
+    "🇨🇭",
+    "Farmacéutica diversificada. Separó Sandoz (genéricos). Dividendo sólido."
+  ],
+  "ROG": [
+    "Roche Holding",
+    "healthcare",
+    "🇨🇭",
+    "Diagnóstico y farmacéutica: oncología y neurología. Dividendo histórico creciente."
+  ],
+  "GRF": [
+    "Grifols S.A.",
+    "healthcare",
+    "🇪🇸",
+    "Plasma: albumina, inmunoglobulinas. Elevada deuda y proceso de reestructuración."
+  ],
+  "HON": [
+    "Honeywell Intl.",
+    "industrial",
+    "🇺🇸",
+    "Aeroespacial, automatización y soluciones energéticas. Conglomerado defensivo."
+  ],
+  "RTX": [
+    "RTX Corp. (Raytheon)",
+    "industrial",
+    "🇺🇸",
+    "Aeroespacial y defensa: motores (Pratt & Whitney) y misiles (Raytheon)."
+  ],
+  "GE": [
+    "GE Aerospace",
+    "industrial",
+    "🇺🇸",
+    "Motores de aviación y servicios. Tras spin-offs, foco puro en aeroespacial."
+  ],
+  "CAT": [
+    "Caterpillar Inc.",
+    "industrial",
+    "🇺🇸",
+    "Maquinaria de construcción y minería. Alta ciclicidad vinculada a infraestructura global."
+  ],
+  "DE": [
+    "Deere & Company",
+    "industrial",
+    "🇺🇸",
+    "Maquinaria agrícola y construcción. Digitalización del campo con sensores y datos."
+  ],
+  "UPS": [
+    "United Parcel Service",
+    "industrial",
+    "🇺🇸",
+    "Logística y mensajería. Presión por desaceleración del e-commerce postCOVID."
+  ],
+  "FDX": [
+    "FedEx Corp.",
+    "industrial",
+    "🇺🇸",
+    "Logística global. Plan de eficiencia y reducción de costes en curso."
+  ],
+  "LMT": [
+    "Lockheed Martin",
+    "industrial",
+    "🇺🇸",
+    "Defensa: F-35, misiles, sistemas espaciales. Ingresos recurrentes con contratos gubernamentales."
+  ],
+  "ETN": [
+    "Eaton Corp.",
+    "industrial",
+    "🇮🇪",
+    "Gestión de energía eléctrica y sistemas de potencia. Beneficiario de electrificación."
+  ],
+  "EMR": [
+    "Emerson Electric",
+    "industrial",
+    "🇺🇸",
+    "Automatización industrial y sistemas de control. Ciclo largo de inversión industrial."
+  ],
+  "PH": [
+    "Parker Hannifin",
+    "industrial",
+    "🇺🇸",
+    "Tecnologías de movimiento y control. Alta exposición a aeroespacial e industrial."
+  ],
+  "ANA": [
+    "Acciona S.A.",
+    "industrial",
+    "🇪🇸",
+    "Infraestructuras, renovables y agua. Fuerte peso en concesiones internacionales."
+  ],
+  "FER": [
+    "Ferrovial S.A.",
+    "industrial",
+    "🇪🇸",
+    "Infraestructuras: autopistas (407 ETR Toronto) y aeropuertos. Alta generación de caja."
+  ],
+  "AENA": [
+    "AENA S.M.E.",
+    "industrial",
+    "🇪🇸",
+    "Operator de aeropuertos en España y concesiones internacionales. Tráfico récord."
+  ],
+  "NEE": [
+    "NextEra Energy",
+    "utilities",
+    "🇺🇸",
+    "Mayor empresa de renovables del mundo. Utility regulada en Florida + brazo renovables."
+  ],
+  "SO": [
+    "Southern Company",
+    "utilities",
+    "🇺🇸",
+    "Electricidad en el sureste de EE.UU. Alta deuda por planta nuclear Vogtle."
+  ],
+  "DUK": [
+    "Duke Energy",
+    "utilities",
+    "🇺🇸",
+    "Utility eléctrica diversificada en Carolinas, Florida y Midwest."
+  ],
+  "AEP": [
+    "American Electric Power",
+    "utilities",
+    "🇺🇸",
+    "Utility eléctrica con foco en transmisión. Dividendo estable."
+  ],
+  "EXC": [
+    "Exelon Corp.",
+    "utilities",
+    "🇺🇸",
+    "Utility eléctrica con mayor flota nuclear de EE.UU."
+  ],
+  "IBE": [
+    "Iberdrola S.A.",
+    "utilities",
+    "🇪🇸",
+    "Líder global en renovables: eólica y solar. Redes reguladas en España, UK y EE.UU."
+  ],
+  "ELE": [
+    "Endesa S.A.",
+    "utilities",
+    "🇪🇸",
+    "Electricidad en España e Italia. Alta rentabilidad por dividendo. Filial de Enel."
+  ],
+  "ENG": [
+    "Enagás S.A.",
+    "utilities",
+    "🇪🇸",
+    "Gestor de infraestructura de gas natural en España. Dividendo estable y regulado."
+  ],
+  "NTGY": [
+    "Naturgy Energy Group",
+    "utilities",
+    "🇪🇸",
+    "Gas y electricidad en España y Latinoamérica. Proceso de simplificación societaria."
+  ],
+  "RED": [
+    "Red Eléctrica (REE)",
+    "utilities",
+    "🇪🇸",
+    "Operador de la red eléctrica española (TSO). Ingresos regulados y dividendo predecible."
+  ],
+  "T": [
+    "AT&T Inc.",
+    "telecom",
+    "🇺🇸",
+    "Telecomunicaciones: móvil y fibra en EE.UU. Alta deuda tras adquisiciones. Dividendo recortado."
+  ],
+  "VZ": [
+    "Verizon Comm.",
+    "telecom",
+    "🇺🇸",
+    "Telecom: móvil y banda ancha. Alta rentabilidad dividendo, bajo crecimiento."
+  ],
+  "TMUS": [
+    "T-Mobile US",
+    "telecom",
+    "🇺🇸",
+    "Móvil en EE.UU. Mayor crecimiento de suscriptores. Integración de Sprint completada."
+  ],
+  "CMCSA": [
+    "Comcast Corp.",
+    "telecom",
+    "🇺🇸",
+    "Cable, internet (Xfinity), NBC Universal y parques. Presión de cord-cutting."
+  ],
+  "DIS": [
+    "Walt Disney Co.",
+    "telecom",
+    "🇺🇸",
+    "Entretenimiento: parques, streaming (Disney+), películas y deportes (ESPN)."
+  ],
+  "NFLX": [
+    "Netflix Inc.",
+    "telecom",
+    "🇺🇸",
+    "Streaming líder global. Aceleración del crecimiento por publicidad y control de contraseñas."
+  ],
+  "TEF": [
+    "Telefónica S.A.",
+    "telecom",
+    "🇪🇸",
+    "Telecom en España, Alemania, Brasil y otros mercados. Dividendo estable, deuda elevada."
+  ],
+  "VOD": [
+    "Vodafone Group",
+    "telecom",
+    "🇬🇧",
+    "Telecom en Europa y África. Reestructuración con ventas de activos en curso."
+  ],
+  "DTE": [
+    "Deutsche Telekom",
+    "telecom",
+    "🇩🇪",
+    "Telecom en Alemania y EE.UU. (T-Mobile). Beneficiario del crecimiento de TMUS."
+  ]
+}
